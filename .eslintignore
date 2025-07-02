@@ -1,0 +1,3 @@
+**/*.d.ts
+orval.config.mjs
+src/shared/api/generated.ts
